@@ -1,3 +1,4 @@
 preset: symfony
 disabled:
   - braces
+  - php_unit_fqcn_annotation 
